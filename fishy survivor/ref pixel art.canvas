@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"c5427de3de7d3703","type":"file","file":"images/Pasted image 20240224215117.png","x":-220,"y":400,"width":389,"height":400},
-		{"id":"c2865d653923c007","type":"file","file":"images/Pasted image 20240224215123.png","x":320,"y":-60,"width":389,"height":400},
-		{"id":"189eb988dd51ff1a","type":"file","file":"images/Pasted image 20240224215104.png","x":-220,"y":-60,"width":389,"height":400},
-		{"id":"76dbf5fd8577bf4f","x":260,"y":440,"width":400,"height":239,"type":"file","file":"Pasted image 20240224215201.png"}
-	],
-	"edges":[]
-}

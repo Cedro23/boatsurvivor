@@ -4,36 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2f276bdcb0c051d0",
+        "id": "e366a8881712eb84",
         "type": "tabs",
         "children": [
           {
-            "id": "e776efcf2289968a",
+            "id": "44b772710a9574a7",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "ref pixel art.canvas",
+                "file": "Ref_Pixel_Art.canvas",
                 "viewState": {
-                  "x": 196.51738578680204,
-                  "y": 602.0288753501052,
-                  "zoom": -0.3749864906762116
+                  "x": 1031.0659898477156,
+                  "y": 111.02538071065993,
+                  "zoom": -0.5653002537441202
                 }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ac6e6f3e270bdebc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa8690d047ff831a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ref pixel art.canvas",
+                "file": "Images/Boats/Fisher_boat_4.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ref pixel art.canvas",
+                "file": "Images/Boats/Fisher_boat_4.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ref pixel art.canvas"
+                "file": "Images/Boats/Fisher_boat_4.webp"
               }
             }
           }
@@ -163,14 +149,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e776efcf2289968a",
+  "active": "ac02ee82793e0f07",
   "lastOpenFiles": [
-    "Pasted image 20240224215201.png",
-    "images/Pasted image 20240224215104.png",
-    "ref pixel art.canvas",
-    "images",
-    "images/Pasted image 20240224215123.png",
-    "images/Pasted image 20240224215117.png",
-    "Welcome.md"
+    "Images/Boats/Fisher_boat_4.webp",
+    "Images/Boats/Fisher_boat_3.png",
+    "Ref_Pixel_Art.canvas",
+    "Images/Boats/Fisher_boat_2.png",
+    "Pasted image 20240224194310.png",
+    "Pasted image 20240224194324.jpg",
+    "Images/Boats/Fisher_boat_1.png",
+    "Images/Arts/Grass_Leaves.png",
+    "Images/Boats",
+    "Images/Arts",
+    "images/R.canvas",
+    "Untitled.md",
+    "Welcome.md",
+    "Images/Arts/Metals.png",
+    "Images/Arts/Miscellaneous.png",
+    "Images",
+    "Images/Arts/Water.png"
   ]
 }
