@@ -1,3 +1,4 @@
+using MoreMountains.Tools;
 using UnityEngine;
 
 public class BoatController : MonoBehaviour
@@ -22,9 +23,6 @@ public class BoatController : MonoBehaviour
         // Get input axes
         float verticalInput = Input.GetAxis("Vertical");
         float horizontalInput = Input.GetAxis("Horizontal");
-        
-        // Debug
-        Debug.Log(_rb.velocity.magnitude);
 
         // Acceleration
         bool isForward = verticalInput > 0;
@@ -35,12 +33,12 @@ public class BoatController : MonoBehaviour
         }
         else
         {
-            if(_rb.velocity.magnitude < topReverseSpeed)
+            if (_rb.velocity.magnitude < topReverseSpeed)
                 _rb.AddForce(reverseAcceleration * verticalInput * transform.up);
         }
 
-            // Water resistance
-            Vector2 vec = Vector2.Reflect(_rb.velocity * -1, transform.up) * 0.02f;
+        // Water resistance
+        Vector2 vec = Vector2.Reflect(_rb.velocity * -1, transform.up) * 0.02f;
         _rb.velocity += vec;
 
         // Rotation
