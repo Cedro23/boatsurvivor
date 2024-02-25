@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e366a8881712eb84",
+        "id": "2f276bdcb0c051d0",
         "type": "tabs",
         "children": [
           {
-            "id": "44b772710a9574a7",
+            "id": "e776efcf2289968a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Ref_Pixel_Art.canvas",
                 "viewState": {
-                  "x": 1031.0659898477156,
-                  "y": 111.02538071065993,
-                  "zoom": -0.5653002537441202
+                  "x": 467.19379525392424,
+                  "y": 30.087951443266263,
+                  "zoom": -0.6828698501252963
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Boats/Fisher_boat_4.webp",
+                "file": "Ref_Pixel_Art.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Boats/Fisher_boat_4.webp",
+                "file": "Ref_Pixel_Art.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Boats/Fisher_boat_4.webp"
+                "file": "Ref_Pixel_Art.canvas"
               }
             }
           }
@@ -149,24 +149,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac02ee82793e0f07",
+  "active": "e776efcf2289968a",
   "lastOpenFiles": [
+    "ref pixel art.canvas",
+    "Ref_Pixel_Art.canvas",
     "Images/Boats/Fisher_boat_4.webp",
     "Images/Boats/Fisher_boat_3.png",
-    "Ref_Pixel_Art.canvas",
     "Images/Boats/Fisher_boat_2.png",
-    "Pasted image 20240224194310.png",
-    "Pasted image 20240224194324.jpg",
     "Images/Boats/Fisher_boat_1.png",
+    "Images/Arts/Water.png",
+    "Images/Arts/Miscellaneous.png",
+    "Images/Arts/Metals.png",
     "Images/Arts/Grass_Leaves.png",
     "Images/Boats",
     "Images/Arts",
-    "images/R.canvas",
-    "Untitled.md",
-    "Welcome.md",
-    "Images/Arts/Metals.png",
-    "Images/Arts/Miscellaneous.png",
     "Images",
-    "Images/Arts/Water.png"
+    "Pasted image 20240224215201.png",
+    "images/Pasted image 20240224215104.png",
+    "images",
+    "Welcome.md"
   ]
 }
