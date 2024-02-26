@@ -21,8 +21,33 @@
                 }
               }
             }
+          },
+          {
+            "id": "03a86657fc4aa1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "011c248e7e067cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref_Pixel_Art.canvas",
+                "file": "GDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref_Pixel_Art.canvas",
+                "file": "GDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref_Pixel_Art.canvas"
+                "file": "GDD.md"
               }
             }
           }
@@ -149,10 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e776efcf2289968a",
+  "active": "011c248e7e067cff",
   "lastOpenFiles": [
-    "ref pixel art.canvas",
+    "GDD source.md",
+    "GDD.md",
     "Ref_Pixel_Art.canvas",
+    "ref pixel art.canvas",
     "Images/Boats/Fisher_boat_4.webp",
     "Images/Boats/Fisher_boat_3.png",
     "Images/Boats/Fisher_boat_2.png",
