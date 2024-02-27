@@ -1,4 +1,4 @@
- **Mass Flux
+**Mass Flux
 
 DESIGN DOCUMENT
 

@@ -1,4 +1,4 @@
- **Mass Flux
+**Mass Flux
 
 DESIGN DOCUMENT
 
@@ -13,7 +13,7 @@ Mass Flux is a tile based puzzle game about reducing or generally manipulating t
 
 ### Inspiration!
 
-
+- VampirSurvivor
 
 ### Player Experience
 
@@ -24,9 +24,9 @@ The game is developed to be released on windows PC
 
 ### Development Software
 
-
-
-  
+- **Unity 2022.3.14f1** for programming
+- **Aseprite** for graphics and UI
+- **FamiStudio or LMMS** for all musics and SFX
 
 ### Genre
   
