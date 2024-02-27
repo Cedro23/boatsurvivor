@@ -107,7 +107,7 @@ MINIMUM VIABLE PRODUCT
 
 | #   | Assignment                                | Type   | Status   | Finish By    | Notes                                                      |
 | --- | ----------------------------------------- | ------ | -------- | ------------ | ---------------------------------------------------------- |
-| 1   | Design Document                           | Other  | Finished | Jun 22, 2022 |                                                            |
+| 1   | Design Document                           | Other  |  Ongoing |              |                                                            |
 | 2   |                                           |        |          |              |                                                            |
 | 3   |                                           |        |          |              |                                                            |
 | 4   |                                           |        |          |              |                                                            |

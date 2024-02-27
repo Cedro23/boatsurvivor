@@ -41,7 +41,7 @@
               "type": "markdown",
               "state": {
                 "file": "GDD.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -179,6 +179,8 @@
   "lastOpenFiles": [
     "GDD source.md",
     "GDD.md",
+    "Excalidraw/Drawing 2024-02-27 18.33.49.excalidraw.md",
+    "Excalidraw",
     "Untitled.md",
     "Untitled 1.md",
     "Ref_Pixel_Art.canvas",
