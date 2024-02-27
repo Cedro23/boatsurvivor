@@ -1,15 +1,15 @@
-**Mass Flux
+**Ship Survivor
 
 DESIGN DOCUMENT
 
-By Aizin for the 2022 Pirate Software Game Jam
+By Ced and Cutie
 
 ---
 ## Introduction
 
 ### Game Summary Pitch
 
-Mass Flux is a tile based puzzle game about reducing or generally manipulating the shape of a mass of cell-blocks to navigate to a goal.
+Ship Survivor is a top-down survivor game about surviving as long as possible against infinite incoming waves of ennemies.
 
 ### Inspiration!
 
@@ -29,7 +29,8 @@ The game is developed to be released on windows PC
 - **FamiStudio or LMMS** for all musics and SFX
 
 ### Genre
-  
+
+Singleplayer, survivor, arcade 
 
 ### Target Audience
 
