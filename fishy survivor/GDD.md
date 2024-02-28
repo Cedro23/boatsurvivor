@@ -96,7 +96,7 @@ Singleplayer, survivor, arcade
 
 ### Controls
 
-
+ZQSD/WASD with mouse for aim
 
 ## Development Timeline
 
@@ -108,11 +108,11 @@ MINIMUM VIABLE PRODUCT
 | #   | Assignment                                | Type   | Status   | Finish By    | Notes                                                      |
 | --- | ----------------------------------------- | ------ | -------- | ------------ | ---------------------------------------------------------- |
 | 1   | Design Document                           | Other  | Working  | Jun 22, 2022 |                                                            |
-| 2   |                                           |        |          |              |                                                            |
-| 3   |                                           |        |          |              |                                                            |
-| 4   |                                           |        |          |              |                                                            |
-| 5   |                                           |        |          |              |                                                            |
-| 6   |                                           |        |          |              |                                                            |
+| 2   |basic player mechanics (movement and attack)| Dev | Planned|              |                                                            |
+| 3   |basic ennemy mechanics(movement, cc attacks, ranged attacks)| Dev | Planned|              |                                                            |
+| 4   | basic sprites for player and ennemies|Art| Planned|              |                                                            |
+| 5   | Wave system | Dev| Planned|              |                                                            |
+| 6   |Xp and level up system| Dev| Planned|              |                                                            |
 | 7   |                                           |        |          |              |                                                            |
 | 8   |                                           |        |          |              |                                                            |
 | 9   |                                           |        |          |              |                                                            |
