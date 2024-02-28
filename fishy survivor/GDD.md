@@ -96,12 +96,18 @@ Singleplayer, survivor, arcade
 
 ### Controls
 
-ZQSD/WASD with mouse for aim
+Keyboard/Mouse :
+- ZQSD/WASD for movement
+- Mouse to aim
+
+Controller :
+- Left joystick for movement
+- Right joystick to aim
 
 ## Development Timeline
 
   
-MINIMUM VIABLE PRODUCT
+### MINIMUM VIABLE PRODUCT
 
   
 
@@ -125,15 +131,3 @@ MINIMUM VIABLE PRODUCT
 | 16  |                                           |        |          |              |                                                            |
 | 17  |                                           |        |          |              |                                                            |
 | 18  |                                           |        |          |              |                                                            |
-
-  
-
-BEYOND (if ahead of schedule / extra time)
-
-  
-
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-|     |     |     |     |     |
-|     |     |     |     |     |
-|     |     |     |     | **  |
