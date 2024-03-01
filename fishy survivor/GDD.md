@@ -34,13 +34,11 @@ Singleplayer, survivor, arcade
 
 ### Target Audience
 
+casual player (~15-25yo) interested in survivor-like and/or fishing-themed game
 
 ## Concept
 
 ### Gameplay overview
-
-
-### Theme Interpretation
 
 
 ### Primary Mechanics
@@ -49,10 +47,11 @@ Singleplayer, survivor, arcade
 
 | Mechanic | Animated Mockup <br><br>(Art not necessarily final) |
 | -------- | --------------------------------------------------- |
-|          |                                                     |
-|          |                                                     |
-|          |                                                     |
-|          |                                                     |
+|Fishing net, automatically fish for the player|    ![[Fishing net mockup.png]]                                              |
+|shooting|                                                     |
+|Fishing spot, requires input from the player to fish a superior quantity or quality of fish|                                                     |
+|upgrades|![[upgrade mockup.png]]|
+|level up||
 
 ### Secondary Mechanics
 
@@ -60,10 +59,10 @@ Singleplayer, survivor, arcade
 
 | Mechanic | Animated Mockup <br><br>(Art not necessarily final) |
 | -------- | --------------------------------------------------- |
-|          |                                                     |
-|          |                                                     |
-
-  
+|unlocking new ships|                                                     |
+|Rare fish trophy/achievements|                                                     |
+|||
+|||
 
 ## Art
 
